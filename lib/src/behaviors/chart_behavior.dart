@@ -21,6 +21,7 @@ import 'package:charts_common/common.dart' as common
         OutsideJustification,
         ChartBehavior;
 import 'package:meta/meta.dart' show immutable;
+import 'package:flutter/foundation.dart' show hashValues;
 import 'package:flutter/widgets.dart' show BuildContext, Widget;
 
 import '../base_chart_state.dart' show BaseChartState;
