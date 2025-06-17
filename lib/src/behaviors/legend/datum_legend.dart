@@ -25,7 +25,7 @@ import 'package:charts_common/common.dart' as common
         OutsideJustification,
         SelectionModelType,
         TextStyleSpec;
-import 'package:flutter/widgets.dart'
+import 'package:flutter/foundation.dart'
     show BuildContext, EdgeInsets, Widget, hashValues;
 import 'package:meta/meta.dart' show immutable;
 import '../../chart_container.dart' show ChartContainerRenderObject;
