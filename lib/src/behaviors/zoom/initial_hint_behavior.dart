@@ -14,7 +14,7 @@
 // limitations under the License.
 
 import 'package:flutter/foundation.dart' show AnimationController;
-
+import 'package:flutter/widgets.dart'; 
 import 'package:charts_common/common.dart' as common
     show BaseChart, ChartBehavior, InitialHintBehavior;
 import 'package:meta/meta.dart' show immutable;
