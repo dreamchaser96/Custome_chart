@@ -17,7 +17,7 @@ import 'dart:math' show max, pow, Point;
 import 'dart:ui' show lerpDouble;
 
 import 'package:flutter/foundation.dart' show AnimationController;
-
+import 'package:flutter/widgets.dart'; 
 import 'package:charts_common/common.dart' as common
     show BaseChart, ChartBehavior, PanBehavior, PanningCompletedCallback;
 import 'package:meta/meta.dart' show immutable;
