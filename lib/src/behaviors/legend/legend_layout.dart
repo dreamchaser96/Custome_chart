@@ -16,7 +16,7 @@
 import 'dart:math' show min;
 import 'package:flutter/rendering.dart';
 import 'package:flutter/foundation.dart' show hashValues;
-
+import 'package:flutter/widgets.dart'; 
 /// Strategy for building legend from legend entry widgets.
 abstract class LegendLayout {
   Widget build(BuildContext context, List<Widget> legendEntryWidgets);
