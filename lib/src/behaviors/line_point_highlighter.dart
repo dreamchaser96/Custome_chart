@@ -21,6 +21,7 @@ import 'package:charts_common/common.dart' as common
         LinePointHighlighterFollowLineType,
         SelectionModelType,
         SymbolRenderer;
+import 'package:flutter/foundation.dart' show hashValues;
 import 'package:flutter/widgets.dart' show hashValues;
 import 'package:meta/meta.dart' show immutable;
 
